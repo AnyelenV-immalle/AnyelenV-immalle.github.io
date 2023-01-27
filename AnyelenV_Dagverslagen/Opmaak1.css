@@ -13,7 +13,6 @@ nav{
     padding:10px;
     border-radius: 10px;
     text-align: center;
-
 }
 
 li.Navigatie
@@ -37,6 +36,7 @@ a:active {
 
 a:visited {
     color: red;
+    border:solid 2px black;
 }
 .Home{
     display: inline;
