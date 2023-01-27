@@ -29,3 +29,10 @@ a:active {
 a:visited {
     color: red;
 }
+
+.Home{
+    display: inline;
+    padding: 10px;
+    
+
+}
