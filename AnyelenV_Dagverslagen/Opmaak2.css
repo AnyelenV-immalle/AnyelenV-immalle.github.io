@@ -1,3 +1,46 @@
+h1{
+    text-align: center;
+}
+img{
+    display: block;
+    margin: 0px auto 0px auto;
+    text-align: center;
+    
+}
 nav{
+    padding: 2px;
+    background-color: white;
+    padding:10px;
+    border-radius: 10px;
+    text-align: center;
+
+}
+
+li.Navigatie
+{
     display: inline;
+    padding: 10px;
+    
+}
+
+nav a{
+    color: black;
+    background-color: white;
+    border:solid 2px black;
+    border-radius: 10px;
+    padding: 10px;
+}
+a:active {
+    color: white;
+    background-color: black;
+}
+
+a:visited {
+    color: red;
+}
+.Home{
+    display: inline;
+    padding: 10px;
+    
+
 }
