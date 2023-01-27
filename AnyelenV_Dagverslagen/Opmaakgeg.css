@@ -42,10 +42,8 @@ a:visited {
 
 .info{
     position: absolute;
-    left: 60%;
+    left: 70%;
     top: 161px;
     color:black;
-    font-weight: bold;
     padding: 5px 50px 20px 10px;
-    background-color: white;
 }
