@@ -42,3 +42,15 @@ a:visited {
     display: inline;
     padding: 10px;
 }
+
+p{
+    background-color: white;
+    height: 75%;
+    width: 90%;
+}
+
+article{
+    background-color: whitesmoke;
+    height: 440px;
+    width: 500px;
+}
