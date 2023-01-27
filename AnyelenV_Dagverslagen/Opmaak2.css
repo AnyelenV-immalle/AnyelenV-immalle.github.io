@@ -44,3 +44,23 @@ a:visited {
     
 
 }
+
+p{
+    height: 75%;
+    
+}
+
+article{
+    
+    height: 440px;
+    
+}
+
+section{
+    margin-left: 10%;
+    margin-right: 10%;
+    border: whitesmoke solid 20px;
+    background-color: whitesmoke;
+
+    
+}
